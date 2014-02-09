@@ -1,0 +1,7 @@
+pod "xxqiniu_ios", :path => "../xxqiniu_ios.podspec"
+
+target "Demo" do
+end
+
+target "DemoTests" do
+end
